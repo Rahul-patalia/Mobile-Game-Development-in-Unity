@@ -1,5 +1,5 @@
 # Mobile-Game-Development-in-Unity
-This project was created in [Unity](https://unity.com/) and scripts in C#.
+This project was created in [Unity](https://unity.com/) and scripts are in C#.
 
 ## For Run this Files
 
